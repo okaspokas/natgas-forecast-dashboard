@@ -1,0 +1,9 @@
+prophet
+scikit-learn
+pandas
+numpy
+plotly
+matplotlib
+streamlit
+requests
+python-dotenv
